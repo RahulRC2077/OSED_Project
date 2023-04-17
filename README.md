@@ -2,7 +2,7 @@
 An equipment in an industry continuously monitors the temperature to open or close a valve to the air conditioner. We realize the system.
 
 ## Block Diagram :
-![image](https://user-images.githubusercontent.com/130765279/232583030-3b8ecd2a-a7a0-48f7-8407-118e12ede9c9.png)
+![image](https://user-images.githubusercontent.com/130765279/232584369-c5d667a6-1186-42b3-9175-da3d9a275f8e.png)
 
 
 ## ALGORITHM :
